@@ -28,7 +28,7 @@ function SkillsPage() {
   return (
     <Layout>
       <section className="w-full px-6 lg:px-12 pt-20 pb-12">
-        <p className="font-mono text-xs uppercase tracking-[0.3em] text-primary mb-6">Skills</p>
+        <p className="font-mono text-s uppercase tracking-[0.3em] text-primary mb-6">Skills</p>
         <h1 className="font-display text-5xl md:text-6xl font-semibold leading-tight max-w-3xl">
           The tools of the trade.
         </h1>

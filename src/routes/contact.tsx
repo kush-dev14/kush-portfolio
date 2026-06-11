@@ -25,7 +25,7 @@ function ContactPage() {
   return (
     <Layout>
       <section className="w-full px-6 lg:px-12 pt-20 pb-12">
-        <p className="font-mono text-xs uppercase tracking-[0.3em] text-primary mb-6">Contact</p>
+        <p className="font-mono text-s uppercase tracking-[0.3em] text-primary mb-6">Contact</p>
         <h1 className="font-display text-5xl md:text-7xl font-semibold leading-[0.95]">
           Let's build something <em className="text-primary not-italic">great</em>.
         </h1>

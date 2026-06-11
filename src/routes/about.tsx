@@ -18,13 +18,13 @@ function AboutPage() {
   return (
     <Layout>
       <section className="w-full px-6 lg:px-12 pt-20 pb-12">
-        <p className="font-mono text-xs uppercase tracking-[0.3em] text-primary mb-6">About</p>
+        <p className="font-mono text-s uppercase tracking-[0.3em] text-primary mb-6">About</p>
         <h1 className="font-display text-5xl md:text-6xl font-semibold leading-tight">
           A developer driven by craft, curiosity, and clean code.
         </h1>
         <div className="mt-10 prose prose-invert max-w-none text-lg text-muted-foreground leading-relaxed space-y-5">
           <p>
-            I'm Ankush Kumar — a Ruby on Rails developer with <span className="text-foreground">4 years and 8 months</span> of professional experience designing, building, and maintaining web applications across multiple domains.
+            I'm Ankush Kumar — a Ruby on Rails developer with <span className="text-foreground">5+ years</span> of professional experience designing, building, and maintaining web applications across multiple domains.
           </p>
           <p>
             My focus is on writing clean, efficient code, designing thoughtful database schemas, and building RESTful APIs that other teams enjoy integrating with. I take testing seriously — RSpec is part of how I think about a problem, not an afterthought.

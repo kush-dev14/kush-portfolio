@@ -24,12 +24,12 @@ function Index() {
           <div className="absolute inset-0" style={{ background: "linear-gradient(90deg, var(--background) 30%, transparent 80%)" }} />
         </div>
         <div className="w-full px-6 lg:px-12 pt-24 pb-32 md:pt-36 md:pb-44">
-          <p className="font-mono text-xs uppercase tracking-[0.3em] text-primary mb-6">Ruby on Rails Developer</p>
+          <p className="font-mono text-s uppercase tracking-[0.3em] text-primary mb-6">Ruby on Rails Developer</p>
           <h1 className="font-display text-5xl md:text-7xl lg:text-8xl font-semibold leading-[0.95] max-w-4xl">
             Building <em className="text-primary not-italic">reliable</em> backends with craft & care.
           </h1>
           <p className="mt-8 max-w-xl text-lg text-muted-foreground leading-relaxed">
-            I'm Ankush Kumar — a software developer with 4+ years of experience designing and shipping scalable web applications and RESTful APIs in Ruby on Rails.
+            I'm Ankush Kumar — a software developer with 5+ years of experience designing and shipping scalable web applications and RESTful APIs in Ruby on Rails.
           </p>
           <div className="mt-10 flex flex-wrap gap-4">
             <Link to="/projects" className="group inline-flex items-center gap-2 px-6 py-3 rounded-md bg-primary text-primary-foreground font-medium hover:opacity-90 transition" style={{ boxShadow: "var(--shadow-glow)" }}>
