@@ -1,7 +1,7 @@
 {
   "name": "tanstack_start_ts",
   "engines": {
-    "node": "20.x"
+    "node": "22.15.0"
   },
   "private": true,
   "sideEffects": false,
